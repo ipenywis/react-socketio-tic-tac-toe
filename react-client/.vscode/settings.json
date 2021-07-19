@@ -1,0 +1,13 @@
+{
+  "editor.tokenColorCustomizations": {
+    "tokenColors": [
+      {
+        "name": "[Constant] — The main constants color",
+        "scope": "constant",
+        "settings": {
+          "foreground": "#fff"
+        }
+      }
+    ]
+  }
+}
